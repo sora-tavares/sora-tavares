@@ -15,7 +15,7 @@ Junior Data Analyst
 🧩 This GitHub is where I share projects from my bootcamp journey, including case studies, workbook activities, and personal experiments in data.
 
 * 🌍  I'm based in Worthing, UK
-* 🖥️  See my portfolio at [https://github.com/sora-tavares](http://sites.google.com/view/sora-tavares/project)
+* 🖥️  See my portfolio at http://sites.google.com/view/sora-tavares 
 * ✉️  You can contact me at [soraia.tavares@outlook.com](mailto:soraia.tavares@outlook.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on interesting projects, ONG projects
