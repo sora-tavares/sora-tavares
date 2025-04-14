@@ -10,7 +10,7 @@ Junior Data Analyst
 
 🔍 I enjoy exploring patterns, solving problems, and making insights easier to understand through dashboards, notebooks, and clean visual storytelling. 
 
-🎯 I'm based in Worthing, UK, and open to remote and hybrid opportunities. 
+🎯 I'm based in Worthing, UK, and open to remote opportunities. 
 
 🧩 This GitHub is where I share projects from my bootcamp journey, including case studies, workbook activities, and personal experiments in data.
 
