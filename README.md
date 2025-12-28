@@ -1,32 +1,83 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sora Tavares
 ====================================================================================================================================
 
-Junior Data Analyst
+**Data Analyst Apprentice | Automation & Analytics**
 -------------------
 
 **Curious mind. Data-focused. Always learning**
 
-✨An aspiring data analyst with a background in tech support, education services, and admin. I recently completed a Data Technician Bootcamp, where I built skills in Power BI, SQL, Python, and Excel. 
+✨I’m a data analyst apprentice with a background in tech support, education services, and operational administration. I work at the intersection of **data, automation, and process improvement**, using analytics to make systems clearer, fairer, and more efficient.
 
 🔍 I enjoy exploring patterns, solving problems, and making insights easier to understand through dashboards, notebooks, and clean visual storytelling. 
 
-🎯 I'm based in Worthing, UK, and open to remote opportunities. 
+### What I do
+- Build dashboards and reports using **Power BI**, **Excel**, and **SQL**
+- Develop **Python-based tools and automations** to streamline workflows
+- Design and maintain **Power Automate** flows integrating email, SharePoint, and trackers
+- Apply data quality, governance, and anonymisation principles in real workplace contexts
 
-🧩 This GitHub is where I share projects from my bootcamp journey, including case studies, workbook activities, and personal experiments in data.
+### Current focus
+- Completing a **Level 4 Data Analyst Apprenticeship**
+- Developing a **Python-based CV & cover letter anonymisation engine** for fair recruitment
+- Strengthening end-to-end data workflows (intake → processing → reporting)
 
-* 🌍  I'm based in Worthing, UK
+### About this GitHub
+🧩 This GitHub contains:
+- Data analysis projects and case studies
+- Apprenticeship and bootcamp workbooks
+- Automation experiments and Python tools
+- Documentation-first projects focused on clarity and reproducibility
+
+No real organisational data is included.
+
+### Tech & tools
+- **Python**, SQL (PostgreSQL, SQLite)
+- **Power BI**, **Power Query**, Excel
+- **Tableau** (dashboards and visual analysis)
+- **R** (data analysis and visualisation – coursework & workshops)
+- **Power Automate**, SharePoint
+- VS Code, GitHub
+- pandas, python-docx (in progress)
+
+### A bit more about me
+* 🌍  I'm based in Worthing, UK, and open to fully remote opportunities. 
 * 🖥️  See my portfolio at http://sites.google.com/view/sora-tavares 
 * ✉️  You can contact me at [soraia.tavares@outlook.com](mailto:soraia.tavares@outlook.com)
-* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on interesting projects, ONG projects
 * ⚡  I love escape rooms!
 
 ### Skills
 
-
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+
+  <!-- Data & BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-Query-Colored.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-Automate-Colored.png" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="40" />
+
+
+  <!-- Automation & Platforms -->
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sharepoint.svg" width="40" />
+
+  <!-- Dev & Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+
+  <!-- Web -->
+  <img src="https://cdn.worldvectorlogo.com/logos/wix.svg" width="40" />
 </p>
+
 
 
 ### Socials
