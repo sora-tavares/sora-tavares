@@ -12,14 +12,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### What I do
 - Build dashboards and reports using **Power BI**, **Excel**, and **SQL**
-- Develop **Python-based tools and automations** to streamline workflows
+- Develop **Python-based tools and automations** to streamline data and operational workflows
 - Design and maintain **Power Automate** flows integrating email, SharePoint, and trackers
 - Apply data quality, governance, and anonymisation principles in real workplace contexts
 
 ### Current focus
 - Completing a **Level 4 Data Analyst Apprenticeship**
-- Developing a **Python-based CV & cover letter anonymisation engine** for fair recruitment
-- Strengthening end-to-end data workflows (intake → processing → reporting)
+- Building end-to-end data workflows (intake → processing → reporting)
+- Developing applied projects in:
+  - **Recruitment automation and anonymisation**
+  - **Education and qualifications data analysis**
+  - **File migration and data quality auditing**
 
 ### About this GitHub
 🧩 This GitHub contains:
